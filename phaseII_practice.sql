@@ -219,6 +219,3 @@ WHERE name_of_item='Stapler' AND stored_location = storage_id;
 
 
 --END OF SCRIPT (NOV 02, 2018)
-
-
-
